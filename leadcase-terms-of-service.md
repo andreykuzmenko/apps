@@ -28,7 +28,7 @@ You agree not to disclose your password to any third party. You must notify us i
 
 4. Intellectual Property
 The original content of the Service, such as text, trademarks, graphics, logos, button icons, images and compilations thereof, all software used in the Service, 
-and the contents of the offering, belong to Yomento, Yomento’s licensors or suppliers (“Intellectual Property“). 
+and the contents of the offering, belong to Leadcase, Leadcase’s licensors or suppliers (“Intellectual Property“). 
 The Intellectual Property Rights are protected by applicable laws, including, and without limitation, 
 the Copyright Act and other laws protecting intellectual property and property rights. You undertake to comply with all such applicable laws and not to 
 modify or remove any copyright or ownership notices in such Intellectual Property.
@@ -40,10 +40,10 @@ play, code, copy, present, display and otherwise use Content to provide the Serv
 You warrant that you hold all necessary rights to view and upload Content, to use Content in other ways, and to grant us the license to Content as above.
 
 5. Links To Other Web Sites
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Yomento.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Leadcase.
 
-Yomento has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services. 
-You further acknowledge and agree that Yomento shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by 
+Leadcase has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services. 
+You further acknowledge and agree that Leadcase shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by 
 or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
@@ -106,7 +106,7 @@ nd applies between you and Leadcase:
 Google has no obligation or liability to you with respect to Leadcase’s Android App or this Agreement.
 
 10. Limitation of Liability 
-In no event shall Yomento, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, 
+In no event shall Leadcase, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, 
 special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) 
 your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (
 iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, 
@@ -138,7 +138,7 @@ These Terms constitute the entire agreement between us regarding our Service, an
 
 14. Changes
 We reserve the right to unilaterally change the terms of these Terms of Use from time to time. The terms and conditions are available on our website, 
-www.yomento.com/terms-and-conditions/. If your consent is required because of the changes, we will provide you with further notice as appropriate depending on the circumstances, and request your consent in accordance with the applicable data protection regulations.
+https://andreykuzmenko.github.io/apps/leadcase-terms-of-service. If your consent is required because of the changes, we will provide you with further notice as appropriate depending on the circumstances, and request your consent in accordance with the applicable data protection regulations.
 
 By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. 
 If you do not agree to the new terms, please stop using the Service.
