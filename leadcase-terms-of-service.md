@@ -1,5 +1,5 @@
 1. General
-Please read these Terms and Conditions (“Terms“, “Terms and Conditions“) carefully before using the http://leadcase.net website and the mobile app (the “Service“) created by Andrey Kuzmenko (“Leadcase”, “us“, “we“, or “our“). 
+Please read these Terms and Conditions (“Terms“, “Terms and Conditions“) carefully before using the https://leadcase.net website and the mobile app (the “Service“) created by Andrey Kuzmenko (“Leadcase”, “us“, “we“, or “our“). 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. 
 These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -80,14 +80,14 @@ iOS App
 This section sets out the specific terms and conditions applicable to the use of the App in Apple iOS-based Mobile Devices and downloaded through the App Store 
 (“LEadcase’s iOS App“).
 
-(i) You agree that the terms of this paragraph apply between you and Yomento (not with Apple Inc).
+(i) You agree that the terms of this paragraph apply between you and Leadcase (not with Apple Inc).
 
-(ii) You hereby undertake to use the Yomento’s iOS App solely in accordance with Apple Inc’s (“Apple“) at any time applicable terms of the App Store.
+(ii) You hereby undertake to use the Leadcase’s iOS App solely in accordance with Apple Inc’s (“Apple“) at any time applicable terms of the App Store.
 
 (iii) Leadcase, and not Apple, is solely responsible for Leadcase’s iOS App as well as the Service and Offering available therein. 
 You understand that Apple has no obligation or liability to you with respect to the Leadcase’s iOS App or this Agreement.
 
-(iv) Leadcase, and not Apple, is solely responsible for and manages any and all claims regarding Yomento’s iOS App or your possession of and / or use 
+(iv) Leadcase, and not Apple, is solely responsible for and manages any and all claims regarding Leadcase’s iOS App or your possession of and / or use 
 of the Leadcase's iOS App in accordance with this Agreement.
 
 (v) Leadcase, and not Apple, is also responsible for any third party claims regarding intellectual property infringement attributable to the Leadcase’s iOS App 
@@ -98,7 +98,7 @@ Android App
 This section sets out the specific terms and conditions of the use of the App on Android-based mobile devices (the “Leadcase’s Android App“) a
 nd applies between you and Leadcase:
 
-(i) Google Inc (“Google“) provides Google Play, where you download the Yomento’s Android App.
+(i) Google Inc (“Google“) provides Google Play, where you download the Leadcase’s Android App.
 
 (ii) You hereby undertake to use the Leadcase’s Android App solely in accordance with Google’s applicable terms of Google Play.
 
