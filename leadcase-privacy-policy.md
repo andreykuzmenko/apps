@@ -93,6 +93,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2021-11-23
 
-**Contact Us**
+## Contact Us
 
 If you have any questions or suggestions about Privacy Policy, do not hesitate to contact us at a.kuzmenko2007@gmail.com.
