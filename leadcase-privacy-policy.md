@@ -14,37 +14,29 @@ We are using sub-contractors as cloud-based servers, CRM-systems, notification s
 
 We will process personal data as below when you register and use the Application:
 
-(a) first name and last name;
-(b) email address;
-(c) IP address;
-(d) technical data, which may include unique device type & ID, network, language and operating system version, system performance information.
+* first name and last name;
+* email address;
+* IP address;
+* technical data, which may include unique device type & ID, network, language and operating system version, system performance information.
 
 We are unable to provide you with the Application in accordance with our Terms and Conditions unless you provide us with the personal data above. If you don’t want to share your personal data as set out in this Privacy Policy, you should not accept this Privacy Policy and you should not download and use the Application.
 
 We will process the following personal data when you visit our Website:
 
-(a) information about your use of the Website;
-(b) content that you choose to provide us with on the Website, such as information you provide when completing forms;
-(c) technical data, which may include the URL you are redirected to the Website from, your IP address, unique device ID, network and computer performance, browser type, language and identifying information and operating system.
-
-The app does use third-party services that may collect information used to identify you.
-
-Link to the privacy policy of third-party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+* information about your use of the Website;
+* content that you choose to provide us with on the Website, such as information you provide when completing forms;
+* technical data, which may include the URL you are redirected to the Website from, your IP address, unique device ID, network and computer performance, browser type, language and identifying information and operating system.
 
 **Purpose of processing**
 We will process the personal data set out above for the following purposes:
 
-(a) to provide personal and relevant feedback to you;
-(b) to provide the Customer with information on an aggregated basis in order for the Customer to optimize its leadership initiatives. The only personal data that the Customer can see about you, as a user of the Application, is if you have been active in the Application the last 30 days in order to understand if their leaders are using the services as expected;
-(c) to administrate your account, to enable and provide the Application and the Website and integration with third party services, and to provide, personalize and improve your experience with the Application and the Website, and to otherwise provide the Application according to the Terms and Conditions;
-(d) to inform you about updates of the Application and Website, the Terms and Conditions and this Privacy Policy;
-(e) to improve and develop the Application and Website and to analyse your use of the Application and Website;
-(f) to ensure the technical functioning of the Application and Website and to prevent use of in breach of the terms and conditions; and
-(g) to enforce the Terms and Conditions, including to protect our rights, property and safety and also the rights, property and safety of third parties if necessary.
+* to provide personal and relevant feedback to you;
+* to provide the Customer with information on an aggregated basis in order for the Customer to optimize its leadership initiatives. The only personal data that the Customer can see about you, as a user of the Application, is if you have been active in the Application the last 30 days in order to understand if their leaders are using the services as expected;
+* to administrate your account, to enable and provide the Application and the Website and integration with third party services, and to provide, personalize and improve your experience with the Application and the Website, and to otherwise provide the Application according to the Terms and Conditions;
+* to inform you about updates of the Application and Website, the Terms and Conditions and this Privacy Policy;
+* to improve and develop the Application and Website and to analyse your use of the Application and Website;
+* to ensure the technical functioning of the Application and Website and to prevent use of in breach of the terms and conditions; and
+* to enforce the Terms and Conditions, including to protect our rights, property and safety and also the rights, property and safety of third parties if necessary.
 
 **Legal ground**
 Consent. When registering to use the Application you consent to the processing of the personal data above as set out in this Privacy Policy.
@@ -54,11 +46,17 @@ Fulfilment of contract. We process your personal data to be able to provide the 
 **Disclouse of personal data**
 5.1 We share and transfer your personal data for storage to third parties as stipulated below. In the event that your personal data is subject to transfer outside EU/EEA, we guarantee that adequate security measures have been taken for such transfer in accordance with applicable data protection laws.
 
-(i) Amazon AWS – server
-(ii) Cloudways – server
-(iii) Mailgun – email
-(iv) Mixpanel – analytics
-(v) OneSignal – push notifications
+* Amazon AWS – server
+* Mailgun – email
+* Mixpanel – analytics
+
+The app does use third-party services that may collect information used to identify you.
+
+Link to the privacy policy of third-party service providers used by the app
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
 
 5.2 When using the Application and the Website you may be directed to other websites where the personal data collected is outside of our control. The privacy policy of the other website will govern the personal data obtained from you on that website.
 
@@ -102,8 +100,8 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-11-22
+This policy is effective as of 2021-11-23
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at a.kuzmenko2007@gmail.com.
+If you have any questions or suggestions about Privacy Policy, do not hesitate to contact me at a.kuzmenko2007@gmail.com.
