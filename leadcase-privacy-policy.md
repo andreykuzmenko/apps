@@ -46,8 +46,9 @@ Fulfilment of contract. We process your personal data to be able to provide the 
 ## Disclouse of personal data
 5.1 We share and transfer your personal data for storage to third parties as stipulated below. In the event that your personal data is subject to transfer outside EU/EEA, we guarantee that adequate security measures have been taken for such transfer in accordance with applicable data protection laws.
 
-* Amazon AWS – server (api.leadcase.net)
+* Microsoft Azure – server (api.leadcase.net)
 * Mixpanel – analytics
+* Google Firebase Analytics
 
 5.2 When using the Application and the Website you may be directed to other websites where the personal data collected is outside of our control. The privacy policy of the other website will govern the personal data obtained from you on that website.
 
