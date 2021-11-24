@@ -19,6 +19,8 @@ We will process personal data as below when you register and use the Application
 * IP address;
 * technical data, which may include unique device type & ID, network, language and operating system version, system performance information.
 
+This infromation is sent to our API at https://api.leadcase.net
+
 We are unable to provide you with the Application in accordance with our Terms and Conditions unless you provide us with the personal data above. If you don’t want to share your personal data as set out in this Privacy Policy, you should not accept this Privacy Policy and you should not download and use the Application.
 
 We will process the following personal data when you visit our Service:
