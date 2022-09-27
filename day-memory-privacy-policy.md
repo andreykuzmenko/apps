@@ -1,12 +1,12 @@
 # Privacy Policy
 ## General
-Andrii Kuzmenko built the Leadcase app as a Commercial app. This APP (Service, Website) is provided by Andrii Kuzmenko (We, us) and is intended for use as is.
+Andrii Kuzmenko built the DayMemory app as a Commercial app. This APP (Service, Website) is provided by Andrii Kuzmenko (We, us) and is intended for use as is.
 
 This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use Service.
 
 If you choose to use Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Leadcase unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at DayMemory unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -19,7 +19,7 @@ We will process personal data as below when you register and use the Application
 * IP address;
 * technical data, which may include unique device type & ID, network, language and operating system version, system performance information.
 
-This information is sent to our API at <https://api.leadcase.net>
+This information is sent to our API at <https://daymemory.azurewebsites.net>
 
 We are unable to provide you with the Application in accordance with our Terms and Conditions unless you provide us with the personal data above. If you don’t want to share your personal data as set out in this Privacy Policy, you should not accept this Privacy Policy and you should not download and use the Application.
 
@@ -33,7 +33,8 @@ We will process the following personal data when you visit our Service:
 We will process the personal data set out above for the following purposes:
 
 * to provide personal and relevant feedback to you;
-* to provide the Customer with information on an aggregated basis in order for the Customer to optimize its leadership initiatives. The only personal data that the Customer can see about you, as a user of the Application, is if you have been active in the Application the last 30 days in order to understand if their leaders are using the services as expected;
+* to provide the Customer with information on an aggregated basis in order for the Customer to optimize its 
+ership initiatives. The only personal data that the Customer can see about you, as a user of the Application, is if you have been active in the Application the last 30 days in order to understand if their leaders are using the services as expected;
 * to administrate your account, to enable and provide the Application and the Website and integration with third party services, and to provide, personalize and improve your experience with the Application and the Website, and to otherwise provide the Application according to the Terms and Conditions;
 * to inform you about updates of the Application and Website, the Terms and Conditions and this Privacy Policy;
 * to improve and develop the Application and Website and to analyse your use of the Application and Website;
@@ -48,7 +49,7 @@ Fulfilment of contract. We process your personal data to be able to provide the 
 ## Disclouse of personal data
 5.1 We share and transfer your personal data for storage to third parties as stipulated below. In the event that your personal data is subject to transfer outside EU/EEA, we guarantee that adequate security measures have been taken for such transfer in accordance with applicable data protection laws.
 
-* Microsoft Azure – server (api.leadcase.net)
+* Microsoft Azure – server (daymemory.azurewebsites.net)
 * Mixpanel – analytics
 * Google Firebase Analytics
 
