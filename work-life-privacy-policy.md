@@ -34,14 +34,14 @@ Consent. When registering to use the Application you consent to the processing o
 Fulfilment of contract. We process your personal data to be able to provide the Application to you as set out in the terms and conditions and to be able to provide our services to the Customer.
 
 ## Disclouse of personal data
-5.1 We share and transfer your personal data for storage to third parties as stipulated below. In the event that your personal data is subject to transfer outside EU/EEA, we guarantee that adequate security measures have been taken for such transfer in accordance with applicable data protection laws.
+We share and transfer your personal data for storage to third parties as stipulated below. In the event that your personal data is subject to transfer outside EU/EEA, we guarantee that adequate security measures have been taken for such transfer in accordance with applicable data protection laws.
 
 * Google Firebase Analytics
 * Mixpanel
 
-5.2 When using the Application and the Website you may be directed to other websites where the personal data collected is outside of our control. The privacy policy of the other website will govern the personal data obtained from you on that website.
+When using the Application and the Website you may be directed to other websites where the personal data collected is outside of our control. The privacy policy of the other website will govern the personal data obtained from you on that website.
 
-5.3 We will never sell or resell any personal data to any third party. We will not engage in any advertising set-ups using the personal data for commercial reasons. We may use aggregated personal data for marketing purposes but individual personal data will never be disclosed.
+We will never sell or resell any personal data to any third party. We will not engage in any advertising set-ups using the personal data for commercial reasons. We may use aggregated personal data for marketing purposes but individual personal data will never be disclosed.
 
 
 ## Log Data
