@@ -69,6 +69,9 @@ I want to inform users of this Service that these third parties have access to t
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
+## Storage period
+We store your personal data for a minimum period of time before deleting it permanently. You may also ask us to erase your personal data from our systems. We will comply with such a request unless we have a legitimate ground not to delete the data. You can send you request to the e-mail: a.kuzmenko2007@gmail.com.
+
 ## Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
