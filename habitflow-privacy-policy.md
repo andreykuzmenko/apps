@@ -45,10 +45,11 @@ Fulfilment of contract. We process your personal data to be able to provide the 
 
 * Mixpanel – analytics
 * Google Firebase Analytics
+* MakeItLab.net - AI assistant
 
 5.2 When using the Application and the Website you may be directed to other websites where the personal data collected is outside of our control. The privacy policy of the other website will govern the personal data obtained from you on that website.
 
-5.3 We will never sell or resell any personal data to any third party. We will not engage in any advertising set-ups using the personal data for commercial reasons. We may use aggregated personal data for marketing purposes but individual personal data will never be disclosed.
+5.3 We will never sell or resell any personal data to any third party. We will not engage in any advertising set-ups using the personal data for commercial reasons. We may use aggregated personal data for marketing purposes but individual personal data will never be disclosed. All data is sent anonymously.
 
 
 ## Log Data
@@ -88,7 +89,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2024-08-28
+This policy is effective as of 2024-09-13
 
 ## Contact Us
 
