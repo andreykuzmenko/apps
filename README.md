@@ -1,1 +1,1 @@
-Privacy policy and term of use pages
+Privacy policy and term of use page. 
